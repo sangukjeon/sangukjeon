@@ -30,7 +30,7 @@
 
 | Project | 소개 | Links |
 | :-- | :-- | :-- |
-| **PELOVA** | 코드를 몰라도 Claude와 함께 앱을 만드는 데스크톱 AI IDE — *정하고 나서 만드는 바이브코딩* | [Site](https://sangukjeon.github.io/pelova-site/) · [Releases](https://github.com/sangukjeon/pelova-releases) |
+| **PELOVA** | 코드를 몰라도 AI와 함께 앱을 만드는 데스크톱 AI IDE — *정하고 나서 만드는 바이브코딩* | [Site](https://sangukjeon.github.io/pelova-site/) · [Releases](https://github.com/sangukjeon/pelova-releases) |
 | **DOTCI** | 점 하나, 이야기 하나. 캠퍼스 장소에 도착하면 선배의 쪽지가 열리는 위치 기반 웹 서비스 | [Live](https://dotci.vercel.app) · [Repo](https://github.com/sangukjeon/dotci) |
 | **WSU&nbsp;Meal** | 우송대 학식 웹 페이지와, GitHub Actions + Pages로 돌아가는 정적 JSON 학식 API | [Live](https://www.wsumc.team/) · [Web](https://github.com/sangukjeon/wsu-meal) · [API](https://github.com/sangukjeon/wsu-meal-api) |
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a9df4&height=100&section=footer" width="100%" alt="" />
