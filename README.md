@@ -1,26 +1,36 @@
-# 👋 Hello, I'm Sanguk Jeon!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a9df4&height=180&section=header&text=Sanguk%20Jeon&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Hardware%20%C2%B7%20Software%20%C2%B7%20Infra&descSize=18&descAlignY=58" width="100%" alt="Sanguk Jeon" />
+
+### 안녕하세요, 전상욱입니다
 
 하드웨어부터 소프트웨어, 인프라까지 폭넓게 탐구하는 것을 즐기는 학생 개발자입니다.
+요즘은 데스크톱 AI IDE **펠로바(PELOVA)** 와 캠퍼스 생활을 돕는 작은 서비스들을 만들고 있어요.
 
-- 🎓 **Education:** 우송대학교 (Woosong Univ.) 26학번
-- 📧 **Contact:** [jeonsanguk1217@gmail.com](mailto:jeonsanguk1217@gmail.com)
-- 🌐 **Blog:** [www.codehatch.kr](https://www.codehatch.kr/)
+우송대학교 (Woosong Univ.) 26학번
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeonsanguk1217@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-codehatch.kr-1e3c72?style=flat-square)](https://www.codehatch.kr/)
 
-## 🛠 Tech Stack
+<br/>
 
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Tech Stack
 
-### Frontend & Backend & Database
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css" height="40" alt="C, C++, Java, Python, JavaScript, TypeScript, HTML, CSS" />
 
-### Hardware & Infrastructure
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+**Web & Data**<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,supabase,vercel" height="40" alt="React, Node.js, MySQL, Supabase, Vercel" />
 
----
+**Hardware & Infra**<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,githubactions,git" height="40" alt="Arduino, Raspberry Pi, Linux, GitHub Actions, Git" />
+&nbsp;<sub>+ Proxmox</sub>
 
-## 🔗 Contact
+<br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jeonsanguk1217@gmail.com)
+### Projects
+
+| Project | 소개 | Links |
+| :-- | :-- | :-- |
+| **PELOVA** | 코드를 몰라도 Claude와 함께 앱을 만드는 데스크톱 AI IDE — *정하고 나서 만드는 바이브코딩* | [Site](https://sangukjeon.github.io/pelova-site/) · [Releases](https://github.com/sangukjeon/pelova-releases) |
+| **DOTCI** | 점 하나, 이야기 하나. 캠퍼스 장소에 도착하면 선배의 쪽지가 열리는 위치 기반 웹 서비스 | [Live](https://dotci.vercel.app) · [Repo](https://github.com/sangukjeon/dotci) |
+| **WSU&nbsp;Meal** | 우송대 학식 웹 페이지와, GitHub Actions + Pages로 돌아가는 정적 JSON 학식 API | [Live](https://www.wsumc.team/) · [Web](https://github.com/sangukjeon/wsu-meal) · [API](https://github.com/sangukjeon/wsu-meal-api) |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a9df4&height=100&section=footer" width="100%" alt="" />
