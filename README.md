@@ -1,13 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a9df4&height=180&section=header&text=Sanguk%20Jeon&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Hardware%20%C2%B7%20Software%20%C2%B7%20Infra&descSize=18&descAlignY=58" width="100%" alt="Sanguk Jeon" />
 
+<div align="center">
+
 ### 안녕하세요, 전상욱입니다
 
-하드웨어부터 소프트웨어, 인프라까지 폭넓게 탐구하는 것을 즐기는 학생 개발자입니다.
+하드웨어부터 소프트웨어, 인프라까지 폭넓게 탐구하는 것을 즐기는 학생 개발자입니다.<br/>
 요즘은 데스크톱 AI IDE **펠로바(PELOVA)** 와 캠퍼스 생활을 돕는 작은 서비스들을 만들고 있어요.
 
 우송대학교 (Woosong Univ.) 26학번
 
-**Mail** [jeonsanguk1217@gmail.com](mailto:jeonsanguk1217@gmail.com) &nbsp;·&nbsp; **Blog** [codehatch.kr](https://www.codehatch.kr/)
+<a href="mailto:jeonsanguk1217@gmail.com"><img src="https://img.shields.io/badge/Mail-1e3c72?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
+<a href="https://www.codehatch.kr/"><img src="https://img.shields.io/badge/Blog-1e3c72?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog" /></a>
+
+</div>
 
 <br/>
 
